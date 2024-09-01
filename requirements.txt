@@ -6,3 +6,4 @@ joblib
 fpdf
 streamlit
 scikit-learn
+openpyxl
